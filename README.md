@@ -2,9 +2,7 @@
 Patched Monaco font for use in popular IDE like PhpStorm/WebStorm/NetBeans/etc. 
 
 ### Why?
-Monaco is a nice font for code. I really like it. But it looks ugly on my IDE. 
-I was trying to find some solution in Google and I find some solution but it has ugly line height or works only on Windows or don't support cyrillic. 
-Than I decide make own patch. 
+**Monaco** is a nice font for the code. I really like it. But it looks ugly on my IDE.I was trying to find solution in Google and I find some options, but it has ugly line height or works only on Windows or don't support Cyrillic. Then I decide make the own patch.
 
 ### Features
 * Nice looking in IDE based on Java (see screenshot section) and other 
