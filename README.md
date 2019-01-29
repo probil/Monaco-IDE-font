@@ -2,12 +2,12 @@
 Patched Monaco font for use in popular IDEs and editors (e.g. PhpStorm/WebStorm/NetBeans/IntelliJ/etc.) 
 
 ## :question: Why?
-**Monaco** is a nice font for the code. I really like it. But it looks ugly in the Java-based IDEs on Linux. I tried to google a solution for this but exiting options was really weird or has limitations. So, I decided make my own patch. 
+**Monaco** is a nice font for the code. I really like it. But it looks ugly in the Java-based IDEs on Linux. I tried to google a solution for this but exiting options was really weird or had limitations. So, I decided to patch it fix those issues. 
 
 ## :point_up: Features
-* Look line in Java-based IDEs (see screenshot section) and other 
+* Look fine in Java-based IDEs (see screenshot section) and others 
 * Cyrillic symbols support out-of-the-box
-* Works on Linux and Windows
+* Works well on Linux and Windows
 
 ## :book: How to use
 Just install it into your system and select in our favorite editor/IDE
@@ -19,11 +19,11 @@ Just install it into your system and select in our favorite editor/IDE
 ```bash
 fc-cache -f -v
 ```
-3. Select in your favorite editor/IDE
+3. Select Monaco font the Editor's settings
 
 ### Windows
 1. Open ``Monaco.ttf`` and press `Install`
-2. Select in your favorite editor/IDE
+2. Select Monaco font the Editor's settings
 
 
 ## :camera: Screenshots
@@ -52,4 +52,4 @@ fc-cache -f -v
 
 ## :muscle: Contributing
 
-Is it worked for you? You have found that it looks ugly in your favorite editor? Feel free to create PR at tell your story
+Does it work for you? Do you have any issues or suggestions? Feel free to create PR and tell your story
